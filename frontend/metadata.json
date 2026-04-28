@@ -1,0 +1,7 @@
+{
+  "name": "Nederlandse Spraakassistent",
+  "description": "A real-time voice assistant speaking natural Dutch using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
